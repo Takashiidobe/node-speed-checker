@@ -1,0 +1,13 @@
+{
+  "name": "node-speed-checker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "^0.0.1-security",
+    "node-cron": "^1.2.1",
+    "nodemailer": "^4.6.6",
+    "speedtest-net": "^1.4.3"
+  }
+}
